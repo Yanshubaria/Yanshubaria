@@ -4,7 +4,7 @@
 - 🎓 I’m a **3rd-year B.Tech CSE student** at NMIMS, MPSTME.
 - 🔍 Interested in **Data Analysis, Visualization, Python Development & Problem-Solving**.
 - 🧠 Skilled in **Python, SQL, Power BI**.
-- 📊 Recently completed: **Netflix Content Strategy Analysis using Python**.
+- 📊 Recently completed: **Netflix Content Strategy Analysis (Python)** and **Amazon Global Sales Dashboard (Power BI)**.
 - 🌱 Currently learning: **Advanced Python, SQL, Data Analytics**.
 - 💬 Ask me about **Python, Data Analysis, Visualizations (Power BI / Matplotlib)**.
 - 📫 Reach me at: **yanshubaria24@gmail.com** | **YANSHU.BARIA076@nmims.in**
@@ -47,6 +47,9 @@ I’ve completed analytical projects involving Python, SQL, and Power BI, and I�
 ---
 
 ### 🚀 Projects (Highlighted)
+- **Amazon Global Sales Dashboard (Power BI)**  
+  Designed an interactive dashboard showcasing profit, sales trends, product performance, and regional insights to support data-driven business decisions.
+
 - **Netflix Content Strategy Analysis (Python, Pandas, Matplotlib)**  
   Analyzed content trends, genre popularity, and regional patterns to derive strategic insights.
 
