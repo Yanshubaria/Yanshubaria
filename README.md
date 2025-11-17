@@ -53,12 +53,6 @@ Iâ€™ve completed analytical projects involving Python, SQL, and Power BI, and Iâ
 - **Netflix Content Strategy Analysis (Python, Pandas, Matplotlib)**  
   Analyzed content trends, genre popularity, and regional patterns to derive strategic insights.
 
-- **Accenture Data Analytics & Visualization (Forage)**  
-  Worked on data cleaning, modeling, and presenting insights for a client-based business scenario.
-
-- **IBM Data Analyst Professional Certificate (Ongoing)**  
-  Gaining hands-on experience in data analytics, SQL, Python, Excel & Cognos.
-
 ---
 
 Feel free to explore my repositories and connect for collaborations, projects, or internships!
